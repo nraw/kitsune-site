@@ -1,17 +1,24 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: '狐 Kitsune'
+description: 'Kitsune, the AI language tutor.'
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: "Kitsune's den"
+  intro: "Here's some example interactions with Kitsune!"
 ---
 
-## An Eleventy starter
+## [Kitsune](https://t.me/KistuneBot)
+### the AI language tutor
 
-This (opiniated) [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and it's companion website buildexcellentwebsit.es.
+Say こんにちは to Kitsune, the ultimate AI language tutor! 
 
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-share-url="https://t.me/KistuneBot" data-comment="Kitsune" data-size="large" data-text="notext"></script>
 
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+With [Kitsune](https://t.me/KistuneBot), learning a new language is like a thrilling adventure where you are the hero!
+
+Whether you're a complete beginner or already know your "bonjour" from your "hola," Kitsune will help you master your chosen language with ease. Our clever fox uses advanced Generative AI technology to create a learning dialogue on whatever topic you can think of, so you'll be speaking like a native in no time on the topics you choose!
+
+So why settle for dull textbooks and boring grammar drills? With Kitsune, you'll be immersed in a world of exciting language learning, where you talk to your own virtual teacher, get instant feedback, and a recap for every session!
+
+So what are you waiting for? [Join our language learning den!](https://t.me/KistuneBot)

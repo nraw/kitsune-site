@@ -6,17 +6,16 @@ layout: page
 youtube: true
 ---
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+Welcome to Kitsune, the revolutionary AI language tutor! 
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+Our mission is to make language learning accessible, enjoyable, and effective for everyone. With Kitsune, you can learn a new language at your own pace, on your own schedule, and with personalized support from our clever fox.
 
-The aim is to hopefully spread the use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+So how does it work? It's simple! Kitsune is a Telegram chatbot, so all you need to get started is a Telegram account. For a measely $1, you'll be added to Kitsune's friends and it will start replying to you!
 
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
+Once you've signed up, you can adjust the language and difficulty settings to suit your needs. Whether you're a beginner or an advanced learner, Kitsune will create a customized learning program tailored to you. You'll have a conversation with our fox chatbot, and it will provide feedback, translations, and sessions recaps based on your level and goals.
 
-Edit your preferences (colors, fonts, fluid text sizes etc.) in `src/assets/design-tokens`.
+And as Kitsune is a Telegram chatbot. You can freely invite it to a group chat and practice a language in a group!
 
-## Watch the talk
+So why choose Kitsune? Because Kitsune more than your every day language tutor it's your personal language learning partner. We're here to support you every step of the way, from your first "hola" to your fluent conversations. And with our affordable pricing and familiar platform, there's no reason not to give Kitsune a try.
 
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+So join us today and discover the joy of language learning with Kitsune!
